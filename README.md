@@ -42,7 +42,7 @@ The most popular stations for beginning and ending a trip are largely the same, 
 
 
 **Bike Ridership**
-There are three categories for gender: male, female, and unknown. Most riders are male, in the age group of 25-59 years.
+There are three categories for gender: male, female, and unknown. Most riders are male, in the age group of 25-59 years. The pie chart shows the distribution of riders across all ages.
 
 ![](https://github.com/Aastha-Arora/Citi-Bike-Trip-Analysis/blob/master/Images/rides_by_gender.png)
 
