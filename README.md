@@ -6,8 +6,7 @@ Citi Bike is a privately-owned public bicycle sharing system serving the New Yor
 
 The data for this analysis is collected from (https://www.citibikenyc.com/system-data)
 
-The dataset for two months was combined and cleaned using Python before making the visualizations in Tableau.
-Visualizations are based on New York City data for two months - Jan 2019 and Jan 2020. Dataset does not include the data for Jersey City.
+Visualizations are based on New York City data for two months - Jan 2019 and Jan 2020. Dataset does not include the data for Jersey City. Data was combined and cleaned using Python before making the visualizations in Tableau.
 
 
 #### RESEARCH QUESTIONS
