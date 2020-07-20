@@ -34,14 +34,17 @@ Citi Bike has two tiers of users: customers who pay for one and three day passes
 
 
 **Peak Hours**
+
 The peak hours during which most bike rides start are different for weekdays and weekends. On weekdays, peak hours are 8 am, 5 pm and 6pm whereas on the weekends (Saturday and Sunday), the peak hours were in the afternoon between 12 pm to 2 pm.
 
 
 **Station Use**
+
 The most popular stations for beginning and ending a trip are largely the same, as are the least popular stations. Stations with most bike rides are close to the busy subway stations and MTA bus stops.
 
 
 **Bike Ridership**
+
 There are three categories for gender: male, female, and unknown. Most riders are male, in the age group of 25-59 years. The pie chart shows the distribution of riders across all ages.
 
 ![](https://github.com/Aastha-Arora/Citi-Bike-Trip-Analysis/blob/master/Images/rides_by_gender.png)
@@ -50,10 +53,11 @@ Bike ridership was also analyzed over the days of the week. It was observed that
 
 
 **Trip Duration**
+
 Average trip duration for women is greater than the average trip duration for men.
 Also, the average trip duration over the weekend is greater than the average trip duration over the weekdays.  This trend was observed across almost all categories of age for both males and females.
 
-<ins>Note:</ins> To analyze the bike ridership and trip duration, the age of bike riders was classified in four categories
+<ins>Note:</ins> To analyze the bike ridership and trip duration, the age of bike riders was classified in four categories:
 * Youth (Age < 25)
 * Young Adults (Age 25 to 39)
 * Middle-aged Adults (Age 40 to 59)
