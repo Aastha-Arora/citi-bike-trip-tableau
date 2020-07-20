@@ -45,7 +45,7 @@ The most popular stations for beginning and ending a trip are largely the same, 
 **Bike Ridership**
 There are three categories for gender: male, female, and unknown. Most riders are male, in the age group of 25-59 years.
 
-![] (https://github.com/Aastha-Arora/Citi-Bike-Trip-Analysis/blob/master/Images/rides_by_gender.png)
+![ ] (https://github.com/Aastha-Arora/Citi-Bike-Trip-Analysis/blob/master/Images/rides_by_gender.png)
 
 Bike ridership was also analyzed over the days of the week. It was observed that on average, people is the age group of 40-59 years use citi bikes more on weekdays compared to weekends.
 
@@ -62,4 +62,4 @@ Also, the average trip duration over the weekend is greater than the average tri
 
 
 #### TABLEAU STORY PREVIEW
-![] (https://github.com/Aastha-Arora/Citi-Bike-Trip-Analysis/blob/master/Images/citibike_analysis.gif)
+![ ] (https://github.com/Aastha-Arora/Citi-Bike-Trip-Analysis/blob/master/Images/citibike_analysis.gif)
