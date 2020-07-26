@@ -1,4 +1,4 @@
-### CITI BIKE TRIP DATA ANALYSIS (Jan 2019 and Jan 2020)
+### CITI BIKE TRIP ANALYSIS (Jan 2019 and Jan 2020)
 **Tableau Public Workbook**: [Citi Bike Trip Analysis](https://public.tableau.com/profile/aastha.arora#!/vizhome/CitiBikeTripAnalysisJan2019vsJan2020/CitiBike)
 
 
