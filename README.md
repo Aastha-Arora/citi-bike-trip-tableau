@@ -1,5 +1,5 @@
-### CITI BIKE TRIP ANALYSIS (Jan 2019 and Jan 2020)
-**Tableau Public Workbook**: [Citi Bike Trip Analysis](https://public.tableau.com/profile/aastha.arora#!/vizhome/CitiBikeTripAnalysisJan2019vsJan2020/CitiBike)
+## Citi Bike Trip Analysis(Jan 2019 and Jan 2020)
+**Link to Tableau Public Workbook**: [Citi Bike Trip Analysis](https://public.tableau.com/profile/aastha.arora#!/vizhome/CitiBikeTripAnalysisJan2019vsJan2020/CitiBike)
 
 
 Citi Bike is a privately-owned public bicycle sharing system serving the New York City boroughs of the Bronx, Brooklyn, Manhattan, and Queens, as well as Jersey City, New Jersey. (Source: Wikipedia)
@@ -9,7 +9,7 @@ The data for this analysis is collected from (https://www.citibikenyc.com/system
 Visualizations are based on New York City data for two months - Jan 2019 and Jan 2020. Dataset does not include the data for Jersey City. Data was combined and cleaned using Python before making the visualizations in Tableau.
 
 
-#### RESEARCH QUESTIONS
+## Research Questions
 
 * How many trips have been recorded total during the period?
 * By what percentage has total ridership grown?
@@ -21,7 +21,7 @@ Visualizations are based on New York City data for two months - Jan 2019 and Jan
 * How does the average trip duration change by age?
 
 
-#### ANALYSIS
+## Analysis
 
 **Bike Trips**
 
@@ -64,5 +64,5 @@ Also, the average trip duration over the weekend is greater than the average tri
 * Old Adults (Age 60+ years)
 
 
-#### TABLEAU STORY PREVIEW
+## Tableau Story Preview
 ![](https://github.com/Aastha-Arora/Citi-Bike-Trip-Analysis/blob/master/Images/citibike_analysis.gif)
